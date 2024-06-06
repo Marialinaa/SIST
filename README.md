@@ -1,2 +1,2 @@
-# SIST
-Sistema em c++
+# Sistema de gerenciamento de tarefas
+Software c++
